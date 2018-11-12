@@ -1,4 +1,4 @@
-# ECharts - Java类库
+# ECharts - Java类库  version df.0.0.1
 
 # 本项目短域名为 http://echarts.tk
 
